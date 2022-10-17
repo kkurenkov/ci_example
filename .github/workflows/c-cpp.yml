@@ -18,7 +18,6 @@ jobs:
     - name: make
       run: ./a.out
 
-jobs:
   test:
     runs-on: ubuntu-latest
     steps:
